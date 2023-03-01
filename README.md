@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NourAlJaal
 - 👀 I’m interested in reading, eating, travelling and programming.
-- 🌱 I’m currently learning programming.
 - 📫 How to reach me: nour1996@hotmail.dk
 
 <!---
