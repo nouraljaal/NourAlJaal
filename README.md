@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NourAlJaal
+- 👋 Hi, I’m @nouraljaal
 - 👀 I’m interested in reading, eating, travelling and programming.
 - 📫 How to reach me: nour1996@hotmail.dk
 
